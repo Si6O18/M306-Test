@@ -1,3 +1,4 @@
 # M306-Test
 Inhalt
-etc
+etc /
+Hausaufgaben: Edit in README.md
