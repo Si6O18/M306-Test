@@ -3,5 +3,4 @@ Inhalt
 etc /
 # 
 Hausaufgaben: Edit in README.md
-
-![alt text](https://commons.wikimedia.org/wiki/Category:Public_domain?uselang=de#/media/File:!_Schleswig-Holstein_meerumschlungen_05.jpg "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
